@@ -2,7 +2,6 @@
 
 namespace Captcha\Bundle\CaptchaBundle\Helpers;
 
-use Captcha\Bundle\CaptchaBundle\Support\LibraryLoader;
 use Captcha\Bundle\CaptchaBundle\Routing\Generator\UrlGenerator;
 use Captcha\Bundle\CaptchaBundle\Support\UserCaptchaConfiguration;
 use Symfony\Component\Validator\Exception\InvalidArgumentException;

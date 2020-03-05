@@ -37,6 +37,8 @@ class BotDetectCaptcha
      * Set captcha configuration and create a Captcha object instance.
      *
      * @param string  $configName
+     *
+     * @return object
      */
     public function setConfig($configName)
     {

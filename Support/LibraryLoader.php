@@ -57,8 +57,6 @@ class LibraryLoader
 
     /**
      * Load the captcha configuration defaults.
-     *
-     * @param SessionInterface  $session
      */
     private function loadCaptchaConfigDefaults()
     {

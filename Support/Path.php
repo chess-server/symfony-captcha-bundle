@@ -16,6 +16,8 @@ final class Path
      * Physical path of the captchal library package. 
      * 
      * @param ContainerInterface  $container
+     *                                      
+     * @return mixed|string
      */
     public static function getCaptchaLibPath(ContainerInterface $container)
     {

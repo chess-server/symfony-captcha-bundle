@@ -15,8 +15,8 @@ class Configuration implements ConfigurationInterface
     {
         $captchaLibPathDefault = Path::getDefaultLibPackageDirPath();
 
-        $treeBuilder = new TreeBuilder();
-        $rootNode = $treeBuilder->root('captcha');
+        $treeBuilder = new TreeBuilder('captcha');
+        $rootNode = $treeBuilder->getRootNode();
 
         $rootNode
             ->children()

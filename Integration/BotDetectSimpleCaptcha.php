@@ -5,7 +5,6 @@ namespace Captcha\Bundle\CaptchaBundle\Integration;
 use Captcha\Bundle\CaptchaBundle\Helpers\BotDetectSimpleCaptchaHelper;
 use Captcha\Bundle\CaptchaBundle\Support\SimpleLibraryLoader;
 use Symfony\Component\DependencyInjection\ContainerInterface;
-use Symfony\Component\HttpFoundation\Session\SessionInterface;
 
 class BotDetectSimpleCaptcha
 {
