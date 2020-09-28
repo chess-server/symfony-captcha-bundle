@@ -1,5 +1,5 @@
 {
-    "name": "gmllt/symfony-captcha-bundle",
+    "name": "chess-server/symfony-captcha-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Captcha Bundle -- BotDetect PHP Captcha generator integration for the Symfony framework.",
     "keywords": ["symfony captcha bundle", "symfony captcha", "captcha bundle", "captcha", "captcha generator", "botdetect"],
